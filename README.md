@@ -4,6 +4,8 @@ Hello World
 
 사이트 : https://chungchung234.github.io/No_Regret/
 
+개발 목표 : 개인 서버 위에 운영되는 개인 페이지 구현
+
 개발 완료 : 데모 페이지
 
 개발 예정 : 개인 서버 구축
