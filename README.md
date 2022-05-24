@@ -1,6 +1,5 @@
 Hello World
 
-github-readme-stats.vercel.app/api?username={chungchung234}&show_icons=true&theme=dark
 
 개발중 입니다 🔧
 
