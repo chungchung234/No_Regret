@@ -13,6 +13,7 @@ Hello World
             온라인 배포
             프로젝트 내용 추가
 
+현재 진행사항: 개인 서버 구축중 네트워크 문제 발생
 
 
 
@@ -22,5 +23,3 @@ Hello World
 
 
 
-
-템플릿 출처 : https://github.com/congchu/web-porfolio
